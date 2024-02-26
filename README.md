@@ -38,6 +38,7 @@ On Windows press Windows key + `joy.cpl` to open the control panel with listed g
 * [Three pedal peripherals (gas, brake, clutch)](https://dmadison.github.io/Sim-Racing-Arduino/docs/class_sim_racing_1_1_three_pedals.html)
 * [Analog shifters](https://dmadison.github.io/Sim-Racing-Arduino/docs/class_sim_racing_1_1_analog_shifter.html)
 * [Analog handbrakes](https://dmadison.github.io/Sim-Racing-Arduino/docs/class_sim_racing_1_1_handbrake.html)
+
 **TODO**
 * Joysticks
 * PAS pedal sensor
@@ -46,6 +47,7 @@ On Windows press Windows key + `joy.cpl` to open the control panel with listed g
 * [Logitech Two Pedal Peripheral (Gas, Brake)](http://dmadison.github.io/Sim-Racing-Arduino/docs/logitech_pedals.html)
 * [Logitech Three Pedal Peripheral (Gas, Brake, Clutch)](http://dmadison.github.io/Sim-Racing-Arduino/docs/logitech_pedals.html)
 * [Logitech Driving Force Shifter](http://dmadison.github.io/Sim-Racing-Arduino/docs/logitech_shifter.html)
+
 **TODO**
 * Thrustmaster [T500RS](https://support.thrustmaster.com/en/product/t500rs-en/)/[T3PA-PRO Pedals](https://support.thrustmaster.com/en/product/t3papro-en/)
 * Logitech Wingman Extreme Digital
